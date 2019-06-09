@@ -1,5 +1,5 @@
 {
-  "name": "senrysa_code_generator",
+  "name": "senrysa-code-generator",
   "version": "1.0.0",
   "description": "This project is build to generate boilerplate folder stucture for Senrysa React Project.",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
     "react"
   ],
   "author": "Banisetti Naveen Kumar",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
     "clui": "^0.3.6",
