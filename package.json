@@ -1,5 +1,5 @@
 {
-  "name": "Senrysa_code_generator",
+  "name": "senrysa_code_generator",
   "version": "1.0.0",
   "description": "This project is build to generate boilerplate folder stucture for Senrysa React Project.",
   "main": "src/index.js",
